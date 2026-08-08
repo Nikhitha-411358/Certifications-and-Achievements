@@ -13,5 +13,4 @@
 - **Image Processing** — Onramp
 - **AI Fundamentals** — IBM
 
-### 🚀 Space Technology
-- **Space Science** — ISRO
+
